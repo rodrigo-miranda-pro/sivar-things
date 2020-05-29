@@ -1,0 +1,54 @@
+{
+    "accesorios":[
+        {"orden":1, "categoria": "Accesorios", "nombre":"Estuche para laptop-DoodleMe", "precio":20, "opciones": [{"size":"13 pulg"}, {"size":"16 pulg"}], "imagen":"Estuche dreamer" },
+        {"orden":2, "categoria": "Accesorios", "nombre":"Estuche para laptop-DoodleMe", "precio":20, "opciones": [{"size":"13 pulg"}, {"size":"16 pulg"}], "imagen":"Estuche Escandalosos" },
+        {"orden":3, "categoria": "Accesorios", "nombre":"Estuche para laptop-DoodleMe", "precio":20, "opciones": [{"size":"13 pulg"}, {"size":"16 pulg"}], "imagen":"Estuche Zelda" },
+        {"orden":4, "categoria": "Accesorios", "nombre":"Lanyard-DoodleMe", "precio":8, "opciones": [{"size":"45 cm"}], "imagen":"Lanyard Batman" },
+        {"orden":5, "categoria": "Accesorios", "nombre":"Lanyard-DoodleMe", "precio":8, "opciones": [{"size":"45 cm"}], "imagen":"Lanyard Mario" },
+        {"orden":6, "categoria": "Accesorios", "nombre":"Lanyard-DoodleMe", "precio":8, "opciones": [{"size":"45 cm"}], "imagen":"Lanyard Penguin" },
+        {"orden":7, "categoria": "Accesorios", "nombre":"Lanyard-DoodleMe", "precio":8, "opciones": [{"size":"45 cm"}], "imagen":"Lanyard Pokemon" },
+        {"orden":8, "categoria": "Accesorios", "nombre":"Llavero-DoodleMe", "precio":6, "opciones": [{"size":"15 cm"}], "imagen":"Lanyard Rey Leon" },
+        {"orden":9, "categoria": "Accesorios", "nombre":"Llavero-DoodleMe", "precio":6, "opciones": [{"size":"15 cm"}], "imagen":"Lanyard Stranger things" },
+        {"orden":10, "categoria": "Accesorios", "nombre":"Mousepad-DoodleMe", "precio":9, "opciones": [{"size":"200 x 200 mm"}], "imagen":"Mousepad Arnold" },
+        {"orden":11, "categoria": "Accesorios", "nombre":"Mousepad-DoodleMe", "precio":9, "opciones": [{"size":"200 x 200 mm"}], "imagen":"Mousepad Flamingo" },
+        {"orden":12, "categoria": "Accesorios", "nombre":"Mousepad-DoodleMe", "precio":9, "opciones": [{"size":"200 x 200 mm"}], "imagen":"Mousepad Starwars" },
+        {"orden":13, "categoria": "Accesorios", "nombre":"Mousepad-DoodleMe", "precio":9, "opciones": [{"size":"200 x 200 mm"}], "imagen":"Mousepad Stich" },
+        {"orden":14, "categoria": "Accesorios", "nombre":"Stickers (3-pack)-DoodleMe", "precio":5, "opciones": [{"size":"10.5 x 8 cm"}], "imagen":"Sticker Hora de aventura" },
+        {"orden":15, "categoria": "Accesorios", "nombre":"Stickers (3-pack)-DoodleMe", "precio":5, "opciones": [{"size":"10.5 x 8 cm"}], "imagen":"Stickers Pokemon" },
+        {"orden":16, "categoria": "Accesorios", "nombre":"Stickers (3-pack)-DoodleMe", "precio":5, "opciones": [{"size":"10.5 x 8 cm"}], "imagen":"Stickers revoltosos" },
+        {"orden":17, "categoria": "Accesorios", "nombre":"Stickers (3-pack)-DoodleMe", "precio":5, "opciones": [{"size":"10.5 x 8 cm"}], "imagen":"Stickers Snoopy" }
+    ],
+    "joyeria":[
+        {"orden":1, "categoria": "Joyeria", "nombre":"Catarsis Astrology", "precio":8, "imagen":"Catarsis Astrology", "descripcion":"Piedra natural con signo acuario" },
+        {"orden":2, "categoria": "Joyeria", "nombre":"Catarsis Apple Cider", "precio":8, "imagen":"Catarsis Apple Cider", "descripcion":"Piedra onix y piedra natural ojo de gato en tono verde" },
+        {"orden":3, "categoria": "Joyeria", "nombre":"Catarsis Ghost", "precio":8, "imagen":"Catarsis Ghost", "descripcion":"Piedra fluorescente y piedra volcánica" },
+        {"orden":4, "categoria": "Joyeria", "nombre":"Catarsis Aguardiente", "precio":8, "imagen":"Catarsis Aguardiente", "descripcion":"Piedra volcanica" },
+        {"orden":5, "categoria": "Joyeria", "nombre":"Catarsis Nirvana", "precio":12, "imagen":"Catarsis Nirvana", "descripcion":"Piedra onix y piedra natural" },
+        {"orden":6, "categoria": "Joyeria", "nombre":"Catarsis Breathing", "precio":8, "imagen":"Catarsis Breathing", "descripcion":"Piedra volcanica" }
+    ],
+    "calzado":[
+        {"orden":1, "categoria": "Calzado", "nombre":"Sandalias correa delgada nude", "precio":10, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias corea delgada nude" },
+        {"orden":2, "categoria": "Calzado", "nombre":"Sandalias correa cruzada celeste", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa cruzada celeste" },
+        {"orden":3, "categoria": "Calzado", "nombre":"Sandalias correa cruzada roja", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa cruzada roja" },
+        {"orden":4, "categoria": "Calzado", "nombre":"Sandalias correa cruzada rosa", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa cruzada rosa" },
+        {"orden":5, "categoria": "Calzado", "nombre":"Sandalias correa delgada camel", "precio":10, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa delgada camel" },
+        {"orden":6, "categoria": "Calzado", "nombre":"Sandalias correa gruesa rosa", "precio":10, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa delgada rosa" },
+        {"orden":7, "categoria": "Calzado", "nombre":"Sandalias correa gruesa blanca", "precio":10, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa gruesa blanca" },
+        {"orden":8, "categoria": "Calzado", "nombre":"Sandalias correa gruesa camel", "precio":10, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias correa gruesa camel" },
+        {"orden":9, "categoria": "Calzado", "nombre":"Sandalias doble correa amarilla", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias doble correa amarilla" },
+        {"orden":10, "categoria": "Calzado", "nombre":"Sandalias doble correa blanca", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias doble correa blanca" },
+        {"orden":11, "categoria": "Calzado", "nombre":"Sandalias doble correa negra", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias doble correa negra" },
+        {"orden":12, "categoria": "Calzado", "nombre":"Sandalias doble correa nude", "precio":12, "opciones": [{"talla":"35"}, {"talla":"36"}, {"talla":"37"}, {"talla":"38"}, {"talla":"39"}, {"talla":"40"}], "imagen":"sandalias doble correa nude" }
+    ],
+    "cuidado_personal":[
+        {"orden":1, "categoria": "Cuídado Personal", "nombre":"Jabón Chicas Superpoderosas-HelloSoap", "precio":3.5, "imagen":"Cuidado personal 1", "descripcion":"Circular Burbuja" ,  "opciones": [{"tamaño":"7 cm"}]},
+        {"orden":2, "categoria": "Cuídado Personal", "nombre":"Jabón Chicas Superpoderosas-HelloSoap", "precio":3.5, "imagen":"Cuidado personal 2", "descripcion":"Circular Bombom" ,  "opciones": [{"tamaño":"7 cm"}]},
+        {"orden":3, "categoria": "Cuídado Personal", "nombre":"Jabón Chicas Superpoderosas-HelloSoap", "precio":3.5, "imagen":"Cuidado personal 3", "descripcion":"Circular Bellota" ,  "opciones": [{"tamaño":"7 cm"}]},
+        {"orden":4, "categoria": "Cuídado Personal", "nombre":"Jabón de Unicornio-HelloSoap", "precio":3.5, "imagen":"Cuidado personal 4", "descripcion":"Circular con impresión de unicornio" ,  "opciones": [{"tamaño":"7 cm"}]},
+        {"orden":5, "categoria": "Cuídado Personal", "nombre":"Jabón de Waffle-Hello Soap", "precio":7.5, "imagen":"Cuidado personal 5", "descripcion":"Cuadrado con topping de Helado y frutas" ,  "opciones": [{"tamaño":"17 cm"}]},
+        {"orden":6, "categoria": "Cuídado Personal", "nombre":"Jabón de Paleta -Hello Soap", "precio":4, "imagen":"Cuidado personal 6", "descripcion":"Circular con forma de naranja" ,  "opciones": [{"tamaño":"9 cm"}]},
+        {"orden":7, "categoria": "Cuídado Personal", "nombre":"Jabón de Paleta -Hello Soap", "precio":4, "imagen":"Cuidado personal 7", "descripcion":"Circular con forma de lima" ,  "opciones": [{"tamaño":"9cm"}]},
+        {"orden":8, "categoria": "Cuídado Personal", "nombre":"Jabón de Macarroon- Hello Soap", "precio":4, "imagen":"Cuidado personal 8", "descripcion":"Circular en color rosa" ,  "opciones": [{"tamaño":"7cm"}]}
+    ]
+}     
+    
