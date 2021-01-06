@@ -8,7 +8,7 @@
     "@material-ui/lab": "^4.0.0-alpha.51",
     "@material-ui/styles": "latest",
     "@reduxjs/toolkit": "^1.3.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "firebase": "^7.14.1",
     "formik": "^2.1.4",
     "gatsby": "latest",
